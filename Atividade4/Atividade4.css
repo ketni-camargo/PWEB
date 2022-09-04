@@ -1,0 +1,77 @@
+article {
+    background-color: #FFF;
+    border: 2px solid #CCC;
+    border-color: #CCC #999 #999 #CCC;
+    margin-bottom: 20px;
+    padding: 10px; /* espaçamento entre a borda e o título */
+    }
+
+header h1{
+    font-family: century;
+    color:#FFFFFF;
+    text-align: center;
+    background-color: rgb(190, 37, 152);
+    padding: 15px;
+    
+}
+
+body{
+    background-color:#F0E68C;
+font-family:Arial, Helvetica, sans-serif;
+line-height: 1.5;
+}
+
+nav{
+   background-color: rgb(247, 4, 138); 
+   border: 3px;
+   padding: 2px;
+   padding-left: 10px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   text-align: center;
+   
+}
+
+.Calcada{
+    background-color: #FF69B4F0;
+    text-align: center;
+    margin: 10px 50px 10px 50px;;
+}
+.Calcada img{
+    width:350px;
+    height: 300px;
+}
+
+.rock{
+    background-color: #DA70D6;
+    margin: 10px 50px 10px 50px;
+    text-align: center; 
+}
+.rock img{
+    width: 350px;
+    height: 300px;
+    
+}
+
+.noivado{
+    background-color: #DDA0DD;
+    margin: 10px 50px 10px 50px;
+    text-align: center; 
+}
+
+.noivado img{
+    width: 350px;
+    height: 300px;
+
+}
+
+footer {
+    font-size: 12px;
+    text-align: center;
+    background-color: rgb(71, 4, 80);
+    color: #FFF;
+    }
+
+.clear { /* para a imagem nao "ficar fora" quando usa o float */
+    clear: both;
+}
